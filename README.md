@@ -1,3 +1,1 @@
-# TS -
-# typings
-
+# TS - typings
